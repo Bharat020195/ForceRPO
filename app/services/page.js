@@ -2,14 +2,14 @@ import React from "react";
 import { FaBuilding } from "react-icons/fa";
 import { HiMiniBuildingLibrary } from "react-icons/hi2";
 import { IoHome } from "react-icons/io5";
-import Header from "@/app/Header";
-import Header1 from "@/app/Header1";
+import Header from "../Header";
+import Header1 from "../Header1";
 import Line from "../../Pages/Line";
 import Image from "next/image";
 import Bench from "../../public/Bg.png";
 import Offshore from "../../public/Offshore.jpeg";
 import Recruit from "../../public/Recruitment.webp";
-import Footer from "@/app/Footer";
+import Footer from "../Footer";
 
 const Services = () => {
   return (

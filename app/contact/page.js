@@ -1,9 +1,9 @@
 "use client"
 import React from 'react'
-import Header from '@/app/Header';
-import Header1 from '@/app/Header1';
+import Header from '../Header';
+import Header1 from '../Header1';
 import Line from '../../Pages/Line';
-import Footer from '@/app/Footer';
+import Footer from '../Footer';
 import Map from '../../Pages/map'
 
 const contact = () => {

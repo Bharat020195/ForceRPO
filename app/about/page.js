@@ -1,8 +1,8 @@
-import Header from "@/app/Header";
-import Header1 from "@/app/Header1";
+import Header from "../Header";
+import Header1 from "../Header1";
 import React from "react";
 import Line from "../../Pages/Line";
-import Footer from "@/app/Footer";
+import Footer from "../Footer";
 import { FaBuilding } from "react-icons/fa";
 import { HiMiniBuildingLibrary } from "react-icons/hi2";
 import { IoHome } from "react-icons/io5";
