@@ -85,9 +85,9 @@ const Home = () => {
           </button></Link> 
         </div>
         <div>
-          <button className="text-blue-900 border-[1px] border-blue-900 w-48 h-12">
+          <Link href='/contact' className="text-blue-900 border-[1px] border-blue-900 w-48 h-12 p-3">
             Contact Us
-          </button>
+          </Link>
         </div>
       </div>
 
